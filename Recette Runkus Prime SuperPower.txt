@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<html>
+  <head>
+    <title>Runkus prime power</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Runkus Prime SuperPower :</h1>
+    <p>Avez vous deja voulu etre super fort a fortnite (meme avec 70 de pings) et faire des top 300 en cash cup ainsi que battre des pros en zonewars ou meme en 1v1 buildfight ? J'ai ce qu'il vous faut les loulou</p>
+    <img src="https://pbs.twimg.com/profile_banners/1510929370721964032/1687363862/1500x500" alt ="Banniére de Runkus Prime :/">
+    <section>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>Solidifier votre paff un maximum grace a la branlette :<p>et oui runkus prime était un vrai prédateur sexuel et ca l'aidait grandement a dominer ses adversaires en cup</p></li>
+          <li>Couper la connexion a la daronne :<p>Et oui , Runkus est sans pitié quand il s'agit de cash cup</p></li>
+          <li>Avoir Reoys Prime comme teammate (meme si il est un peu con)</li><p></p>
+          <li>Aller raqueter des enfants dans la rue juste avant la cup pour se sentir puissant et infiniment invincible</li> 
+    </section>
+    <section>
+      <h2>Instructions</h2>
+      <ol>
+        <li>Apres avoir tabassé les gosses de la rue faut s'echauffer sur fortnite pendant 6 heures sur un deathrun pour etre plus agile durant les fin de zones</li>
+        <li>Prévenir Reoys la salope 5h avant la cup prq il fait trop le désiré a arriver en retard</li>
+        <li>Aller acheter un skin dans la boutique pour se sentir plus frais pour la cup ( faut dabord remboursé un autre skin prsq Runkus Prime était un peu pauvre miskin)</li>
+        <li>Et Enfin , entamer une br sans lacher la sauce pour réchauffer les mains et béneficier d'une hausse de testostérone</li>
+          <li>Tu lance la cup et tu ferme ta chatte</li>
+      
+    </section>
+  </body>
+</html>
+
+** end of index.html **
+
